@@ -1,0 +1,454 @@
+[
+  {
+    "keywords": [
+      "hi",
+      "hello",
+      "hey"
+    ],
+    "responses": [
+      "Hello! Welcome to our school's chatbot.",
+      "Nice to meet you! How may I assist you?"
+    ]
+  },
+  {
+    "keywords": [
+      "grades", "missing grades", "grade review","grade clarification", "evaluation results", "academic performance"
+    ],
+    "responses": [
+      "For concerns about your grades—like missing grades, grade clarifications, or evaluation results—you can coordinate to your SSP adviser first so they can check and guide you properly."
+    ]
+  },
+  {
+    "keywords": [
+      "subject load", "class schedule", "schedule conflict", "prerequisites", "curriculum flowchart","enrollment status","academic advising"
+    ],
+    "responses": [
+      "For issues with your subject load, class schedule, prerequisites, curriculum flowchart, or enrollment status, it is best to consult to the registrar office for proper advising and guidance."
+    ]
+  },
+  {
+    "keywords": [
+      "enrollment", "dropping subjects", "adding subjects","shifting", "overload request", "underload request", "course adjustments"
+    ],
+    "responses": [
+      "If you need help with enrollment processes like dropping or adding subjects, shifting, overload or underload requests, or course advising, the registrar is office can assist you with the official steps."
+    ]
+  },
+  {
+    "keywords": [
+      "academic support", "study help", "study guidance", "learning support", "academic questions"
+    ],
+    "responses": [
+      "For general academic questions or study support, you may reach out to your department for assistance to help you stay on track with your academic requirements."
+    ]
+  },
+  {
+    "keywords": [
+      "student portal",
+      "view grades",
+      "view attendance"
+    ],
+    "responses": [
+      "To access your grades and student information and attendance, log in to your portal using your school ID number and password at https://sis-pucu.phinma.edu.ph/iitmsv4eGq0RuNHb0G5WbhLmTKLmTO7YBcJ4RHuXxCNPvuIw=?enc=EGbCGWnlHNJ/WdgJnKH8DA==. Make sure to use your official PHINMA account."
+    ]
+  },
+  {
+    "keywords": [
+      "forgot password my sis",
+      "forgot sis password",
+      "sis password problem",
+      "cannot login my sis",
+      "login issue with my sis"
+    ],
+    "responses": [
+      "If you forgot your password or cannot access your PHINMA account, visit the ITS Office at CSDL Old Building, 2nd Floor, for assistance. They will help you reset your password and get back in."
+    ]
+  },
+  {
+    "keywords": [
+      "fix my computer",
+      "equipment",
+      "technical support"
+    ],
+    "responses": [
+      "Students who need get technical assistance may visit the ITS Office near the CSDL old building or find the IT personnel at MacLab or ComLab. The staff can help with technical issues."
+    ]
+  },
+  {
+    "keywords": [
+      "bullying",
+      "report bullying",
+      "harassment",
+      "unsafe",
+      "someone being mean"
+    ],
+    "responses": [
+      "If someone is bullying or being mean, you can tell a teacher or the CSDL. Following the Anti-Bullying Policy helps keep everyone safe!"
+    ]
+  },
+  {
+    "keywords": [
+      "school clinic",
+      "nurse",
+      "medical help",
+      "not feeling well",
+      "health office"
+    ],
+    "responses": [
+      "If you feel unwell, go to the School clinic The school nurse is available during class hours to assist with medical needs and first aid."
+    ]
+  },
+  {
+    "keywords": [
+      "e-learning",
+      "online class",
+      "google classroom",
+      "remote class"
+    ],
+    "responses": [
+      "Online classes at conducted through Google Classroom Always check your GC for major to see the links, announcements, and schedules from your instructors."
+    ]
+  },
+  {
+    "keywords": [
+      "school clinic",
+      "nurse,",
+      "medical help",
+      "not feeling well",
+      "health office"
+    ],
+    "responses": [
+      "If you feel unwell, go to the School clinic The school nurse is available during class hours to assist with medical needs and first aid."
+    ]
+  },
+  {
+    "keywords": [
+      "career path",
+      "course",
+      "offer program",
+      "programs offered"
+    ],
+    "responses": [
+      "Here are the programs offered at PHINMA UPang and what each one is about to help you choose the right path:    1. BS Medical Laboratory Science : Focuses on laboratory testing, diagnostics, and medical analysis. Ideal for those who want to work in hospitals or clinical labs.    2. BS Psychology : Studies human behavior, mental processes, and counseling. Great for students interested in mental health, HR, or research.    3. BS Architecture : Centers on designing buildings, spaces, and structures. Perfect for creative and technical thinkers who love design.    4. BS Civil Engineering : Covers construction, infrastructure, bridges, and structural planning. Best for analytical students who enjoy solving real-world problems.    5. BS Computer Science : Focuses on programming, software development, algorithms, and technology solutions. Ideal for tech-savvy, problem-solving students.    6. BS Accountancy : Emphasizes financial management, auditing, taxation, and corporate accounting. Suitable for detail-oriented and analytical learners.    7. BS Accounting Information System : Combines accounting with information technology systems. Good for students who want accounting roles with tech skills.   8. BS Tourism Management : Covers travel operations, hospitality, events management, and tourism services. Great for outgoing students who enjoy working with people.    9. BS Entrepreneurship : Teaches business creation, management, and innovative thinking. Perfect for future business owners and startup-minded students.    10. BS Criminology : For those who want to work in law enforcement, investigation, forensics, and public safety.    11. AB English Language : Focuses on communication, literature, writing, and language studies. Ideal for future educators, writers, or communication professionals.\nThese descriptions can help you find the program that fits your skills, interests, and future goals."
+    ]
+  },
+  {
+    "keywords": [
+      "safety",
+      "emergency",
+      "first aid",
+      "evacuation center",
+      "evacuate"
+    ],
+    "responses": [
+      "Your safety is always a top priority. To keep everyone protected, our campus provides clear guidelines on what to do in different emergency situations. We encourage students to stay aware of safety reminders, know their surroundings, and be familiar with exit routes and designated safe areas. By knowing what to do and who to approach, students can feel more confident and prepared whenever unexpected situations happen.",
+      "To ensure your safety inside the campus, here are important tips and reminders you should always keep in mind:    1. Always know the nearest exits and evacuation routes in your building.    2. Report any suspicious people, behavior, or objects to security immediately.    3. Keep your belongings secure and avoid leaving bags or valuables unattended.    4. During emergencies, stay calm, listen to instructions, and move quickly but safely.    5. Know where to find first aid kits, help desks, and school personnel.    6. Follow campus rules like ID wearing and restricted-area guidelines for everyone is protection. Staying alert and prepared helps keep the entire campus community safe."
+    ]
+  },
+  {
+    "keywords": [
+      "campus life",
+      "school life",
+      "student-centered",
+      "school programs",
+      "campus activities",
+      "campus environment"
+    ],
+    "responses": [
+      "Campus life at PHINMA UPang Urdaneta is dynamic and student-focused. The school offers many programs, events, and organizations that help students develop academically and socially. You are welcome to join clubs, attend seminars, and enjoy different campus activities throughout the year., PHINMA UPang Urdaneta provides an engaging campus environment where students can grow and get involved. There are various student organizations, seminars, and campus events available for you to participate in, making your college experience more meaningful and enjoyable."
+    ]
+  },
+  {
+    "keywords": [
+      "school activities",
+      "intramurals",
+      "academic competitions",
+      "campus programs"
+    ],
+    "responses": [
+      "PHINMA UPang Urdaneta offers a wide range of activities all year round, including academic contests, student festivals, intramurals, organization-led events, and community outreach programs. For updates and schedules, please check the official Facebook page or your department is group chat.",
+      "Our campus hosts many activities throughout the year—from academic competitions and intramurals to club events and community service programs. To stay informed about upcoming events, make sure to follow the school is official FB page or monitor your department is GC for announcements."
+    ]
+  },
+  {
+    "keywords": [
+      "student organizations",
+      "clubs",
+      "extracurricular activities",
+      "sports teams",
+      "volunteer groups",
+      "academic organization",
+      "student engagement",
+      "organization"
+    ],
+    "responses": [
+      "Interested in joining campus activities? PHINMA UPang Urdaneta has a variety of clubs, sports teams, volunteer groups, and academic organizations. Participating in these helps you develop skills, make new friends, and enrich your college experience.",
+      "Looking for ways to get involved on campus? You can join interest-based clubs, sports teams, academic organizations, or volunteer groups at PHINMA UPang. These activities are a great way to learn new skills, connect with peers, and enjoy student life."
+    ]
+  },
+  {
+    "keywords": [
+      "campus events",
+      "school announcements",
+      "facebook page",
+      "upcoming activities"
+    ],
+    "responses": [
+      "Stay updated on campus events at PHINMA UPang Urdaneta by following our official Facebook pages at https://www.facebook.com/share/17r3jW6r8C/, your department is group chat, and the SIS portal. Announcements about school activities are posted regularly, so keep an eye on these channels.",
+      "You can easily keep track of school activities through PHINMA UPang is official Facebook pages, department groups, and the SIS portal. Regular updates ensure you will not miss any events or important announcements."
+    ]
+  },
+  {
+    "keywords": [
+      "eco-friendly",
+      "recycle",
+      "cleanup"
+    ],
+    "responses": [
+      "Our school strongly supports environmental protection and community involvement. We encourage students to build eco-friendly habits and participate in activities that help keep the school and community clean and healthy. By working together, whether through simple daily actions or organized programs, we create a greener and more responsible campus environment.",
+      "You can help protect the environment and support the community in many simple but meaningful ways:    1. Practice proper waste segregation and reduce the use of single-use plastics.    2. Participate in school clean-up drives, tree planting, and community projects.    3. Keep classrooms, hallways, and common areas clean and litter-free.    4. Conserve electricity and water by turning off lights and faucets when not in use.    5. Recycle paper, bottles, and other materials whenever possible.    6. Encourage others to join environmental activities and promote a cleaner, greener school. Your small actions can create a big impact on the campus and the community."
+    ]
+  },
+  {
+    "keywords": [
+      "computer lab",
+      "lab rules",
+      "lab guidelines",
+      "lab regulations",
+      "mac lab rules"
+    ],
+    "responses": [
+      "MAC/COM LAB RULES 1. Leave all bags, backpacks, and personal items in the designated area (e.g., at the front of the lab). 2. No food or beverages of any kind are allowed inside the lab. 3. Proper school uniform must be worn correctly at all times. 4. No peripherals such as caps, hats, or other non-uniform accessories are permitted. 5. The use of English is highly encouraged. 6. Always ask for permission from the teacher before using a computer. 7. Playing online games is strictly prohibited. 8. Show respect for your classmates, teachers, and all lab equipment. 9. Maintain a quiet working environment and speak softly. 10. Ensure your hands are clean before using the keyboard and mouse. 11. Do not change any system settings, desktop backgrounds, or preferences. 12. Do not unplug, move, or tamper with any computers, cables, or peripherals. 13. Report any hardware or software problems to your teacher immediately. Do not attempt to fix it yourself. 14. Computers and internet access are for academic purposes only. 15. Do not access social media, non-educationalstreaming sites, personal email, or any inappropriate websites. 16. Do not download or install any unauthorized software or applications. 17. Save all work to a personal USB drive or approved cloud storage (like Google Drive). Do not save personal files to the computer's hard drive. 18. Before leaving, log off the computer, clean your workstation, and push your chair in neatly."
+    ]
+  },
+  {
+    "keywords": [
+      "fun fact"
+    ],
+    "responses": [
+      "PHINMA University of Pangasinan started in 1925. Francisco Benitez, Dr. Apolinario de los Santos, Dr. Sylvestre Pascual and Dr. Blas F. Rayos. Upang was acquired by PHINMA in 2009. There are two UPang campuses—one is located in Dagupan (main) and the other is in Urdaneta (branch). The Urdaneta campus — PHINMA UPang College Urdaneta — opened in  April 20, 2015."
+    ]
+  },
+  {
+    "keywords": [
+      "event",
+      "school event",
+      "events"
+    ],
+    "responses": [
+      "Some of the most popular and enjoyable events in our school include:    1. First Week High : A welcoming celebration where students gather on the first week of classes to enjoy performances, activities, and the famous Kalutan, a community grilling event that welcomes all freshmen.    2. Lamparaan : A Christmas tradition where students participate in belen making, lampara creation, dance performances that tell the story of Christmas, and the magical Pailaw, where all Christmas lights and the giant Christmas tree are lit up.    3. School Anniversary : A special event filled with programs, competitions, and school spirit activities to celebrate the institution is founding. These events make the school atmosphere vibrant, joyful, and full of memorable experiences every year."
+    ]
+  },
+  {
+    "keywords": [
+      "administrative concerns",
+      "administration office",
+      "school policies",
+      "campus guidelines",
+      "student requirements"
+    ],
+    "responses": [
+      "For questions about school policies, campus rules, or general requirements, you can visit the registrar office at PHINMA UPang Urdaneta. They are ready to assist you.",
+      "Need help with administrative concerns or general info? The registrar office at PHINMA UPang Urdaneta can provide guidance on school procedures, policies, and requirements."
+    ]
+  },
+  {
+    "keywords": [
+      "general information",
+      "office hours"
+    ],
+    "responses": [
+      "For general school information, such as office locations, campus services, or policies, you can contact the Registrar is Office during their regular hours, from 7:30 AM to 5:00 PM, Monday to Friday.",
+      "If you have questions about campus services, policies, or where offices are located, the Registrar is Office at PHINMA UPang Urdaneta is available to assist you from Monday to Friday."
+    ]
+  },
+  {
+    "keywords": [
+      "student id",
+      "clearance forms",
+      "certificates",
+      "document requests",
+      "official ids",
+      "student verification",
+      "transcript requests"
+    ],
+    "responses": [
+      "If you need assistance with ID cards, clearance forms, certificates, or other student requests, the Registrar is Office can help and explain the requirements.",
+      "For student services like ID cards, certificates, or clearance forms, visit the Registrar is Office—they will guide you through the process."
+    ]
+  },
+  {
+    "keywords": [
+      "submit document",
+      "request form",
+      "official documents",
+      "requirement clarification",
+      "administrative assistance",
+      "student forms"
+    ],
+    "responses": [
+      "For submitting forms, requesting official documents, or clarifying requirements, the Registrar is Office staff can guide you through each step.",
+      "Need help with forms or official documents? The Registrar is Office can assist you and explain all the necessary requirements."
+    ]
+  },
+  {
+    "keywords": [
+      "tuition fees",
+      "school fees",
+      "payment schedule",
+      "billing",
+      "payment concerns",
+      "tuition assistance"
+    ],
+    "responses": [
+      "For questions about tuition, school fees, or payment schedules, the Finance Office can provide accurate information and help with receipts or payment concerns.",
+      "The Finance Office can assist you and provide official receipts or clarify your payment details."
+    ]
+  },
+  {
+    "keywords": [
+      "payment concerns",
+      "financial documents"
+    ],
+    "responses": [
+      "For questions about payments, or financial documents, the Finance Office can provide guidance and support. You can reach out to the Finance Office for help."
+    ]
+  },
+  {
+    "keywords": [
+      "tuition breakdown",
+      "installment options",
+      "financial guidance",
+      "payment support",
+      "student finance help",
+      "tuition questions",
+      "payment advice"
+    ],
+    "responses": [
+      "For help with your tuition breakdown, installment plans, or other financial concerns, the Finance Office can provide clear guidance.",
+      "If you have questions about tuition, payment options, or other financial matters, the Finance Office is available to assist you."
+    ]
+  },
+  {
+    "keywords": [
+      "upang founded",
+      "upang started",
+      "founded upang"
+    ],
+    "responses": [
+      "PHINMA University of Pangasinan started in 1925. Francisco Benitez, Dr. Apolinario de los Santos, Dr. Sylvestre Pascual and Dr. Blas F. Rayos."
+    ]
+  },
+  {
+    "keywords": [
+      "upang becomes a phinma",
+      "upang becomes part of phinma"
+    ],
+    "responses": [
+      "Upang was acquired by PHINMA in 2009."
+    ]
+  },
+  {
+    "keywords": [
+      "upang acquired by phinma",
+      "phinma acquired upang"
+    ],
+    "responses": [
+      "PHINMA Education aims to make quality tertiary education more accessible. Through the acquisition, UPang was integrated into PHINMA is network to improve academic programs, operations, and support for students."
+    ]
+  },
+  {
+    "keywords": [
+      "upang urdaneta started",
+      "upang urd started"
+    ],
+    "responses": [
+      "The Urdaneta campus — PHINMA UPang College Urdaneta — opened in  April 20, 2015."
+    ]
+  },
+  {
+    "keywords": [
+      "upang facilities",
+      "facilities"
+    ],
+    "responses": [
+      "Classrooms, laboratories, computer centers, simulation rooms, libraries, and student lounges."
+    ]
+  },
+  {
+    "keywords": [
+      "upang campus",
+      "campuses"
+    ],
+    "responses": [
+      "There are two UPang campuses—one is located in Dagupan (main) and the other is in Urdaneta (branch)."
+    ]
+  },
+  {
+    "keywords": [
+      "upang urdaneta academic head",
+      "academic head",
+      "head"
+    ],
+    "responses": [
+      "The academic head of upang urdaneta is Jessie Ian Paragas Jr."
+    ]
+  },
+  {
+    "keywords": [
+      "hk scholarship",
+      "hk"
+    ],
+    "responses": [
+      "The Hawak Kamay (HK) Scholarship is a financial aid program at PHINMA UPang for incoming freshmen and transferees."
+    ]
+  },
+  {
+    "keywords": [
+      "hk scholarship eligibility"
+    ],
+    "responses": [
+      "Open to incoming freshmen and transferees who meet the criteria set by PHINMA UPang."
+    ]
+  },
+  {
+    "keywords": [
+      "apply"
+    ],
+    "responses": [
+      "You can apply by completing the HK Scholarship form online or by visiting the CSDL Office. Submit your requirements and wait for evaluation."
+    ]
+  },
+  {
+    "keywords": [
+      "application result"
+    ],
+    "responses": [
+      "You will be notified by the Admissions or CSDL once your application has been reviewed."
+    ]
+  },
+  {
+    "keywords": [
+      "hk grade requirement","hawak kamay grade requirement","hk scholarship grade requirement"
+    ],
+    "responses": [
+      "The HK Scholarship does not require a specific grade for renewal, but students must follow the rules and guidelines."
+    ]
+  },
+  {
+    "keywords": [
+      "required duty hours"
+    ],
+    "responses": [
+      "The new ammendment of the required duty hours for those beneficiary of HK Scholarship is 80 hours per semester."
+    ]
+  },
+  {
+    "keywords": [
+      "second sem application", "second semester application"
+    ],
+    "responses": [
+      "For students applying for the HK Scholarship in the second semester, you only need to submit a handwritten endorsement letter and give it to the Upper Manager in CSDL. Make sure your letter follows the correct format. Endorsements are not an automatic guarantee for scholarship tagging, as all applications still undergo deliberation."
+    ]
+  }
+]
