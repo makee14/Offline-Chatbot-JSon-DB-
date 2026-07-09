@@ -103,21 +103,27 @@ def signIn():
     print("\n>>>>>>>>>>>>>Enter your full name<<<<<<<<<<<<<<<<<")
     while True:
         fName = input("First: ").strip().capitalize()
-        if fName:
+        if len(fName) < 2:
+            print("First name must be at least 2 characters long.")
+        elif fName:
             break
         else:
             print("First name cannot be empty")
 
     while True:
         mName = input("Middle: ").strip().capitalize()
-        if mName:
+        if len(mName) < 2:
+            print("Middle name must be at least 2 characters long.")
+        elif mName:
             break
         else:
             print("Middle name cannot be empty.")
         
     while True:
         lName = input("Last: ").strip().capitalize()    
-        if lName: 
+        if len(lName) < 2:
+            print("Last name must be at least 2 characters long.")
+        elif lName:
             break
         else:
             print("Last name cannot be empty.")
@@ -128,24 +134,24 @@ def signIn():
         if len(idNum) >= 17 and any(char.isdigit() for char in idNum):
             break
         else:
-            print("Type a valid id number.")
+            print("WARNING: Please enter a valid id number.")
 
-
+    print("")
     while True:
         email = input("Email: ").strip()
         if email.endswith("@gmail.com") or email.endswith("@phinmaed.com"):
             break
         else:
-            print("Invalid gmail!")
+            print("WARNING: Please enter a valid email address.")
 
     for user in entry:
         if user["idNum"] == idNum or user["email"] == email:
             print("\nYou seems already signed in. Go to log in area\n")
-            print("------------------------------------------------\n\nPLease wait...")
+            print("------------------------------------------------\n")
+            print("Please wait. Redirecting you there...")  
             t.sleep(4)
             return None
-    print()
-    print("----------------------------\n")     
+    print("\n----------------------------")     
     while True:                 
         password = input("Password: ").strip()
         if len(password) < 8:
