@@ -4,5 +4,5 @@ This is our 1st year 1st sem final project. We simulating an AI, but offline. Da
 
 Feel free to explore the file. Also, please lower your expectations in this small project. The algorithm, ideas, and code was written by me... And Of course, with the help of tools like AI, Google, YouTube, and more... and tested and debugged by my team... 
 
-If you want to copy this project, ensure to create a "userInfo.json" file, this is where to store the login credentials... as we
-add a log in/register feature... or else, the program will throw an error.
+If you want to copy this project, ensure to create a "userInfo.json" file, this is where to store the login credentials... as there is
+added log in/register feature... or else, the program will throw an error.
